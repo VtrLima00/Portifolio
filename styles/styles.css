@@ -118,6 +118,7 @@ body {
     }
     .cabecalho__menu {
         justify-content: center;
+        gap: 3rem;
     }
     .apresentacao {
         flex-direction: column-reverse;
